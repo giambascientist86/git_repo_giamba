@@ -1,2 +1,3 @@
 # git_repo_giamba
-Initial Git learning activity
+Recommender System Project for movies recommendations to users
+Streamng Use case
